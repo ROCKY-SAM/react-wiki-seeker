@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-wiki-seeker/static/css/main.f5431e1f.chunk.css",
+    "main.js": "/react-wiki-seeker/static/js/main.ce3c269c.chunk.js",
+    "main.js.map": "/react-wiki-seeker/static/js/main.ce3c269c.chunk.js.map",
+    "runtime-main.js": "/react-wiki-seeker/static/js/runtime-main.3a2d46cf.js",
+    "runtime-main.js.map": "/react-wiki-seeker/static/js/runtime-main.3a2d46cf.js.map",
+    "static/js/2.3cbbc8f5.chunk.js": "/react-wiki-seeker/static/js/2.3cbbc8f5.chunk.js",
+    "static/js/2.3cbbc8f5.chunk.js.map": "/react-wiki-seeker/static/js/2.3cbbc8f5.chunk.js.map",
+    "index.html": "/react-wiki-seeker/index.html",
+    "static/css/main.f5431e1f.chunk.css.map": "/react-wiki-seeker/static/css/main.f5431e1f.chunk.css.map",
+    "static/js/2.3cbbc8f5.chunk.js.LICENSE.txt": "/react-wiki-seeker/static/js/2.3cbbc8f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a2d46cf.js",
+    "static/js/2.3cbbc8f5.chunk.js",
+    "static/css/main.f5431e1f.chunk.css",
+    "static/js/main.ce3c269c.chunk.js"
+  ]
+}
